@@ -1,8 +1,7 @@
 <h1 align = "center">تقویم 99-400 اذان گو شمیم فارسی</h1><hr/>
-<h3 align = "right" dir = "rtl"> بنر تقویم فارسی</h3><hr/>
 <img src = "https://b2n.ir/779930" width ="1024px" height = "500px" alt = "تقویم"/><hr/>
 <h3 align = "right" dir = "rtl"> ویژگی های تقویم </h3><hr/>
- <mark><h5 align = "right" dir = "rtl"><pre>
+ <h5 align = "right" dir = "rtl"><pre>
 1 -ارائه سه تقويم شمسي، قمري و ميلادي (بدون محدوديت زماني)
 
 2 - پشتیبانی از 4 زبان  
@@ -30,7 +29,7 @@
 13 - اذان گو
 
 و.......
-</pre></h5><mark/><hr/>
+</h5><mark/><hr/>
  
 
 
