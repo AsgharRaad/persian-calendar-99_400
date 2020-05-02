@@ -43,13 +43,10 @@
 <h4 align = "right" dir = "rtl" >مجوز شرایط استفاده از کد برنامه</h4>
 <h5 align = "right" dir = "rtl"><p>دلیل استفاده از این مجوز این بوده که برای سورس برنامه از کدهایی که دارای این شرایط بوده‌اند استفاده شده که ما را ملزم به استفاده از این شرایط برای سورس برنامه کرده‌اند پس توقع می‌رود شما هم در استفاده از سورس برنامه چنین کنید، شرایط استفاده از برنامه به طور ساده شده در اینجا <a href = "https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)">https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)</a> توضیح داده شده است، خلاصه‌اش تقریبا اینگونه است که لازم است به همان شکلی سورس برنامه را به همراه برنامه دریافت کرده‌اید، سورس برنامه تغییر داده شده خود را حداقل در هر انتشار در جایی عمومی قرار دهید و پیوند آن را هم به صورت عمومی قرار دهید و ارجاع مناسب به سورس اصلی دهید، همانطور که اشاره شد از آنجایی که از سورس دیگرانی با همین مجوز در این برنامه استفاده شده است در اختیار ما نیست که به شکل دیگری استفاده از این سورس را مجاز کنیم. با تشکر</p></h5>
  <pre></pre></h5><hr/>
- 
- 
-
-
-
-
- 
-
-
-
+ <h3 align = "right" dir = "rtl">دریافت برنامه</h3><hr/>
+ <ul>
+    <li> <a href="https://cafebazaar.ir/app/com.shamim.farsi" ><img src = "https://i.pinimg.com/originals/8a/09/80/8a0980b5f8379c08f545280c1944df40.jpg" width ="50px" height = "50px" alt = "B"/>بزودی در کافه بازار</a> </li>
+     <li> <a href="https://myket.ir/app/com.shamim.farsi" ><img src = "https://b2n.ir/346002" width ="50px" height = "50px" alt = "Myket"/>بزودی در مایکت</a></li>
+ <li> <a href="https://play.google.com/store/apps/details?id=com.shamim.farsi" ><img src = "https://b2n.ir/776804" width ="50px" height = "50px" alt = "Google Play"/>بزودی در گوگل پلی</a></li>
+    <li> <a href="https://github.com/AsgharRaad/persian-calendar-99_400.git" > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcnEdS7JCEI07Q35KEi3LX43euhh9xbV_dm3Glsyu60q7LUK88&usqp=CAU" width ="45px" height = "45px" alt = "G" />سورس برنامه در گیت هاب</a> </li>
+</ul><hr/>
