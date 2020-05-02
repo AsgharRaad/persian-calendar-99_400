@@ -2,8 +2,7 @@
 <h3 align = "right" dir = "rtl"> بنر تقویم فارسی</h3><hr/>
 <img src = "https://b2n.ir/779930" width ="1024px" height = "500px" alt = "تقویم"/><hr/>
 <h3 align = "right" dir = "rtl"> ویژگی های تقویم </h3><hr/>
- <h5><pre align = "right" dir = "rtl >
- 
+ <h5><pre>
 1 -ارائه سه تقويم شمسي، قمري و ميلادي (بدون محدوديت زماني)
 
 2 - پشتیبانی از 4 زبان  
